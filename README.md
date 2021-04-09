@@ -1,4 +1,4 @@
-# TV-Show-Tracker
+# trackr
 
 ## Table of Contents
 * [Description](#description)
